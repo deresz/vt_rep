@@ -1,0 +1,6 @@
+# conf file for vt_rep.py script
+# separate file created so git is happy
+
+apikey: <insert_your_api_key> 
+allinfo: 1
+pause: 16
